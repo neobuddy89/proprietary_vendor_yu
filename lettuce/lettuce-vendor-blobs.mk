@@ -266,7 +266,6 @@ PRODUCT_COPY_FILES += \
     vendor/yu/lettuce/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/yu/lettuce/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/yu/lettuce/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
-    vendor/yu/lettuce/proprietary/lib64/librmnetctl.so:system/lib64/librmnetctl.so \
     vendor/yu/lettuce/proprietary/vendor/lib64/libcneapiclient.so:system/vendor/lib64/libcneapiclient.so \
     vendor/yu/lettuce/proprietary/vendor/lib64/libconfigdb.so:system/vendor/lib64/libconfigdb.so \
     vendor/yu/lettuce/proprietary/vendor/lib64/libmdmdetect.so:system/vendor/lib64/libmdmdetect.so \
