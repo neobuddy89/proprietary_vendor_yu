@@ -26,7 +26,8 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     libqct_resampler \
-    libmm-abl
+    libmm-abl \
+    libmm-disp-apis
 
 PRODUCT_PACKAGES += \
     libloc_api_v02 \
